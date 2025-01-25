@@ -1,3 +1,4 @@
 CPF: 1; Nome: joao; Senha: 111; 
 CPF: 2; Nome: mateus; Senha: 222; 
 CPF: 3; Nome: lucas; Senha: 333; 
+CPF: 4; Nome: pedro; Senha: 444; 

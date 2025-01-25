@@ -1,3 +1,4 @@
-CPF: 1; Agencia: Banco do Brasil; Nome: joao; ID: 1; Tipo: Corrente; Saldo: 10800.16; Data: 2025-01-25T05:35:59.082566452; 
-CPF: 2; Agencia: Bradesco; Nome: mateus; ID: 2; Tipo: Poupanca; Saldo: 2010.9; Data: 2025-01-25T05:35:59.084672621; 
-CPF: 3; Agencia: Itau; Nome: lucas; ID: 3; Tipo: Salario; Saldo: 1100.0; Data: 2025-01-25T05:21:22.962353888; Status: V; ID Empregador: 1; 
+CPF: 1; Agencia: Banco do Brasil; Nome: joao; ID: 1; Tipo: Corrente; Saldo: 10600.14; Data: 2025-01-25T06:12:24.612339900; 
+CPF: 2; Agencia: Bradesco; Nome: mateus; ID: 2; Tipo: Poupanca; Saldo: 2051.32; Data: 2025-01-25T06:12:24.613947164; 
+CPF: 3; Agencia: Itau; Nome: lucas; ID: 3; Tipo: Salario; Saldo: 1000.0; Data: 2025-01-25T06:13:19.087604408; Status: X; ID Empregador: 1; 
+CPF: 4; Agencia: Nubank; Nome: pedro; ID: 4; Tipo: Salario; Saldo: 400.0; Data: 2025-01-25T06:09:04.469440043; Status: V; ID Empregador: 2; 

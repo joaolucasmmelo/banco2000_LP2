@@ -549,7 +549,7 @@ public class Banco2000 {
                                                                     else {
                                                                         verTudo = false;
                                                                         System.out.println("Impossivel realizar a transacao a esta conta pois voce nao e o Empregador dela.");
-                                                                        corrent.setSaldo(corrent.getSaldo());
+                                                                        corrent.setSaldo("Saldo: " + saldoStr);
                                                                         novosDados.write(linha1 + "\n");
                                                                     }
                                                                 }
